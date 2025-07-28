@@ -22,3 +22,9 @@ from privacy_protocol import SecureSession
 session = SecureSession(user_id="anon_123")  
 print(session.encrypt("Hello, world!"))  # 🔒→ "xTs4k...JK9p"  
 ---
+Environment:
+
+    OS: [e.g., Ubuntu 22.04]
+    Python Version: [e.g., 3.9]
+
+
