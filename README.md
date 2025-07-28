@@ -59,6 +59,7 @@ It introduces key protocols — Joker, H2Ai2H, Emotional Consent Shield — desi
     🔒 Zero-Trust • Local-First • Encrypted
   </text>
  <!-- Abstract tech shapes -->
+ https://github.com/fatbrain1/AI-Human-Privacy-Protocol/blob/main/assets/repo-banner.svg
   <circle cx="100" cy="80" r="15" fill="white" opacity="0.2" />
   <circle cx="700" cy="120" r="20" fill="white" opacity="0.2" />
   <path d="M200 150 L250 120 L300 150" stroke="white" stroke-width="2" opacity="0.3" fill="none" />
