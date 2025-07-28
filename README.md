@@ -1,3 +1,26 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6E07F3" />
+      <stop offset="100%" stop-color="#5BE9B9" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#gradient)" rx="10" />
+  
+  <!-- Title -->
+  <text x="50%" y="45%" font-family="Arial, sans-serif" font-size="48" 
+        font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">
+    AI-Human Privacy Protocol
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="50%" y="65%" font-family="Arial, sans-serif" font-size="24" 
+        fill="white" text-anchor="middle" dominant-baseline="middle">
+    🔒 Zero-Trust • Local-First • Encrypted
+  </text>
+  
+  <!-- Abstract shapes -->
 # AI-Human-Privacy-Protocol
 
 **Insuring the Pain — Protecting the Survivors of the Data Age**
